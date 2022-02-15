@@ -37,8 +37,8 @@ body {
   overflow: hidden;
   flex-direction: column;
   flex: 1;
-  background-image: linear-gradient(to right top, #cb5eee, #4be1ec);
-  /* background-image: ; */
+  /* background-image: linear-gradient(to right top, #cb5eee, #4be1ec); */
+  background-image: url(../assets/image/woman.jpg);
   animation: changeColor 4s ease-in-out;
   -webkit-animation: changeColor 4s ease-in-out;
   -moz-animation: changeColor 4s ease-in-out;

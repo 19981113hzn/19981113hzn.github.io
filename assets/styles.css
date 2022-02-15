@@ -38,7 +38,8 @@ body {
   flex-direction: column;
   flex: 1;
   /* background-image: linear-gradient(to right top, #cb5eee, #4be1ec); */
-  background-image: url(../assets/image/woman.jpg);
+
+  background-image: url(../assets/image/woman.jpg) center no-repeat;
   animation: changeColor 4s ease-in-out;
   -webkit-animation: changeColor 4s ease-in-out;
   -moz-animation: changeColor 4s ease-in-out;
